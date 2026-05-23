@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ryan 👋
 
-<!--
-**RyanScott96/RyanScott96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer focused on building high-performance backend systems, scalable cloud infrastructure, and reactive web applications. I hold a degree in Computer Science from the University of Michigan Engineering and enjoy bridging the gap between bare-metal performance, enterprise architecture, and clean, interactive UIs.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on & my background:
+* **High-Performance Data Pipelines:** Building concurrent, lock-free Map-Reduce engines in **Rust** (recently broke the 10-second barrier on the One Billion Row Challenge).
+* **Enterprise Backend & Cloud:** Experienced in designing, building, and deploying scalable backend services and APIs utilizing **Java** and **AWS** infrastructure.
+* **Yada Audio Project:** Developing a Discord-style learning platform exploring digital signal processing and lock-free concurrency using **Rust** and **Tauri**.
+* **Scott Labs:** Architecting the marketing web presence and **Firebase** infrastructure for an industrial IoT startup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Backend & Cloud:** Rust (Crossbeam, Tauri), Java, AWS, C++
+* **Web & Frontend:** TypeScript, SvelteKit, Tailwind CSS, DaisyUI
+* **Database & Architecture:** PostgreSQL, Firebase, Vector Databases
+* **Graphics & Systems:** Vulkan, GLSL
+
+### ⚡ Beyond the Code
+When I'm not optimizing thread allocations or spinning up cloud services, I'm usually maintaining/modifying my Klipper-driven 3D printers, designing custom hybrid guitar speaker cabinets, or hunting down the perfect RimWorld defense optimization.
