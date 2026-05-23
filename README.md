@@ -9,9 +9,9 @@ I am a software engineer focused on building high-performance backend systems, s
 * **Scott Labs:** Architecting the marketing web presence and **Firebase** infrastructure for an industrial IoT startup.
 
 ### 🛠️ Tech Stack & Tools
-* **Backend & Cloud:** Rust (Crossbeam, Tauri), Java, AWS, C++
-* **Web & Frontend:** TypeScript, SvelteKit, Tailwind CSS, DaisyUI
-* **Database & Architecture:** PostgreSQL, Firebase, Vector Databases
+* **Backend & Cloud:** Rust, Java, AWS, C++
+* **Web & Frontend:** TypeScript, SvelteKit, React, Tailwind CSS, DaisyUI
+* **Database & Architecture:** PostgreSQL, Firebase
 * **Graphics & Systems:** Vulkan, GLSL
 
 ### ⚡ Beyond the Code
