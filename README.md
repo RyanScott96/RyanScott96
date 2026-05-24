@@ -15,4 +15,4 @@ I am a software engineer focused on building high-performance backend systems, s
 * **Graphics & Systems:** Vulkan, GLSL
 
 ### ⚡ Beyond the Code
-When I'm not optimizing thread allocations or spinning up cloud services, I'm usually maintaining/modifying my Klipper-driven 3D printers, designing custom hybrid guitar speaker cabinets, or hunting down the perfect RimWorld defense optimization.
+When I'm not coding, I'm spending time with my wife and daughter, modifying my Klipper-driven 3D printer, designing custom hybrid guitar speaker cabinets, or building the perfect RimWorld colony.
