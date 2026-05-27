@@ -16,3 +16,6 @@ I am a software engineer focused on building high-performance backend systems, s
 
 ### ⚡ Beyond the Code
 When I'm not coding, I'm spending time with my wife and daughter, modifying my Klipper-driven 3D printer, designing custom hybrid guitar speaker cabinets, or building the perfect RimWorld colony.
+
+### My Best Friend
+![Some Idiot](https://pbs.twimg.com/media/EM55BWYU8AEmH96.jpg)
